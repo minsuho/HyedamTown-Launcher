@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "HyedamTown-Launcher"
+
+[ejs.landing]
+#mediaGitHubURL = "#"
+mediaTwitterURL = "https://chzzk.naver.com/58a26664a06f646da2f9b22ce13b6cd6"
+#mediaInstagramURL = "#"
+mediaYouTubeURL = "https://www.youtube.com/@Hyedami3"
+mediaDiscordURL = ""
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/BabyBear7/launcher-demo"
+supportLink = "https://github.com/BabyBear7/launcher-demo/issues"
+
+[ejs.welcome]
+welcomeHeader = "HyedamTown 런처"
+welcomeDescription = "안녕하세요."
+welcomeDescCTA = "몇번만 더 클릭하시면 됩니다!"
