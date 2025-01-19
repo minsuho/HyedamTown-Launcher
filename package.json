@@ -1,13 +1,13 @@
 {
-  "name": "HyedamTown",
+  "name": "hyedamtown",
   "version": "1.0.0",
   "productName": "HyedamTown",
-  "description": "HyedamTown Launcher",
+  "description": "HyedamTown-Launcher",
   "author": "gitter",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/suhomin",
+  "homepage": "https://github.com/minsuho/HyedamTown-Launcher/",
   "bugs": {
-    "url": "https://github.com/suhomin"
+    "url": "https://github.com/minsuho/HyedamTown-Launcher/"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BabyBear7/launcher-demo.git"
+    "url": "git+https://github.com/minsuho/HyedamTown-Launcher.git"
   }
 }
